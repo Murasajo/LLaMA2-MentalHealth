@@ -1,0 +1,3 @@
+LLaMA2-MentalHealthAI is a fine-tuned LLaMA2 model specialized for mental health applications, aimed at providing empathetic support and insights. This project refines LLaMA2’s natural language processing capabilities to address mental health conversations, offering informed, nuanced responses suited for virtual mental health assistants, wellness check-ins, and supportive interactions.
+
+The model leverages a carefully curated dataset to enhance understanding of mental health topics, enabling contextual responses that foster mental well-being. Features include conversation flow tuning, mood-sensitive response generation, and personalized insights—all geared toward respectful and positive engagement with users.
